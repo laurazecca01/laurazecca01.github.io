@@ -39,6 +39,4 @@ UX & UI: Figma, Adobe Illustrator, InDesign, Jira
 [![Email](https://img.shields.io/badge/Email-laurazecca01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:laurazecca01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura%20Zecca-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-zecca/)
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?label=Follow&style=social)](https://github.com/yourgithubusername)
+
