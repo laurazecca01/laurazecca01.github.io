@@ -19,9 +19,9 @@ I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, 
 
 ###  💻 Tech Stack
 
-Data & Analytics: Python, R, SQL
-BI Tools: Tableau, Power BI, Looker Studio, Google Analytics, GTM
-UX & UI: Figma, Adobe Illustrator, InDesign, Jira
+- Data & Analytics: Python, R, SQL
+- BI Tools: Tableau, Power BI, Looker Studio, Google Analytics, GTM
+- UX & UI: Figma, Adobe Illustrator, InDesign, Jira
 
 #### 🗣️ Languages
 - 🇮🇹 Italian (Native)
