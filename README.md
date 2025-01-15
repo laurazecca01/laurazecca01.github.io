@@ -2,7 +2,7 @@
 
 I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, and tech innovation. I completed my MSc in Business Analytics at Imperial Business School in 2024, and I'm currently looking for new opportunities to work on/build something cool!
 
-[![Email](https://img.shields.io/badge/Email-laurazecca01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:laura.zecca01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-laura.zecca01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:laura.zecca01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura%20Zecca-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-zecca/)
 
 ## About Me 👀
