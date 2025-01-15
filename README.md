@@ -2,6 +2,9 @@
 
 I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, and tech innovation. I completed my MSc in Business Analytics at Imperial Business School in 2024, and I'm currently looking for new opportunities to work on/build something cool!
 
+[![Email](https://img.shields.io/badge/Email-laurazecca01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:laurazecca01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura%20Zecca-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-zecca/)
+
 ## About Me 👀
 - Since turning 18, I’ve had the opportunity to work and study across Europe (London, Paris, Berlin, and Luxembourg).
 - My most recent role was as a Founder's Associate at JOY_, working on digital corporate gifting solutions as a fonder's associate.
@@ -35,8 +38,5 @@ UX & UI: Figma, Adobe Illustrator, InDesign, Jira
 - books and movies
 - make bad art
 
-## 📫 Let's Connect!
-[![Email](https://img.shields.io/badge/Email-laurazecca01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:laurazecca01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura%20Zecca-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-zecca/)
 
 
